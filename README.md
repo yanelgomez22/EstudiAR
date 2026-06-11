@@ -10,9 +10,13 @@ kanban
 ## Integrantes y roles
 
 -Yanel Gomez- Lider tecnico
+
 -Nelida Orqueda- Analista funcional
+
 -Valentina Morel-Desarrolladora full stack
+
 -Marisol Montiel- QA (Quality Assurance)
+
 -Sofia vicente- Devops
 
 ## Herramientas utilizadas
