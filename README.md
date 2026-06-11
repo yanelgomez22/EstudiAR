@@ -7,7 +7,7 @@ EstudiAR es unaagenda digital diseñada para ayudar a los estudiantes a organiza
 
 kanban
 
-##Integrantes y roles
+## Integrantes y roles
 
 -Yanel Gomez- Lider tecnico
 -Nelida Orqueda- Analista funcional
@@ -15,12 +15,12 @@ kanban
 -Marisol Montiel- QA (Quality Assurance)
 -Sofia vicente- Devops
 
-##Herramientas utilizadas
+## Herramientas utilizadas
 
 -Padlet
 -Miro
 -Github
 
-##Estado del proyecto
+## Estado del proyecto
 
 proyecto academico en etapa de planificacion y diseño
