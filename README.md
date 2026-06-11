@@ -28,3 +28,7 @@ kanban
 ## Estado del proyecto
 
 proyecto academico en etapa de planificacion y diseño
+
+## Enlaces
+
+Miro: https://miro.com/app/board/uXjVHHUV9RI=/?share_link_id=649308662496 
